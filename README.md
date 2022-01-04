@@ -1,6 +1,6 @@
-### Hello, this is Tanzim, from Bangladesh! 👋 
+### Howdy! Welcome to my Github profile! 👋 
 
-## I'm a Computer Science Student at East Delta University, Chattogram!!
+## I'm a Computer Science Student at East Delta University, Chattogram. 
 
 - 🔭 
 - 🌱 
@@ -9,13 +9,15 @@
 - ⚡ 
 
 ### Connect here:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-
+<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<br>
+<br>
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
+<br>
+<br>
 ---
 
 ### 📕 Latest Medium posts
