@@ -26,6 +26,8 @@
 ### 📕 Latest Tech Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hypothesis Testing &lpar;one proportion&rpar;](https://medium.com/@tanzimmahmed/hypothesis-testing-one-proportion-263cc636f6f1?source=rss-4a9c00d2a2f------2)
+- [Types of Sampling](https://medium.com/@tanzimmahmed/types-of-sampling-25f40aa28d10?source=rss-4a9c00d2a2f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://tanzim.hashnode.dev/)
