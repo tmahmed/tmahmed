@@ -1,4 +1,4 @@
-### Hello, this is Tanzim, from Bangladesh! [website] 👋 
+### Hello, this is Tanzim, from Bangladesh! 👋 
 
 ## I'm a Computer Science Student at East Delta University, Chattogram!!
 
@@ -25,5 +25,13 @@
 <br />
 
 ---
+
+### 📕 Latest Tech Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://tanzim.hashnode.dev/)
+
 
 [linkedin]: https://linkedin.com/in/tanzimmahmed
