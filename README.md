@@ -1,21 +1,14 @@
-### Howdy! Welcome to my Github profile! 👋 
+# Howdy! Welcome to my Github profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
-## I'm a Computer Science Student at East Delta University, Chattogram. 
+### I am Tanzim Ahmed, a Computer Science student at East Delta University, Bangladesh. Here I plan to host the projects that I take part in as I delve deeper into the field of Machine Learning, Statistics and Computer Science.
 
-- 🔭 
-- 🌱 
-- 👯 
-- 🥅 
-- ⚡ 
+<b>Interests: </b>
 
-### Connect here:
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<br>
-<br>
-### Languages and Tools:
-<img align="left" alt="Python" width="26px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+- Natural Language Processing
+- Computer Graphics
+-  Image Processing 
+
+Languages and Tools: Python, Django, MySQL
 <br>
 <br>
 ---
@@ -27,7 +20,14 @@
 - [Types of Sampling](https://medium.com/@tanzimmahmed/types-of-sampling-25f40aa28d10?source=rss-4a9c00d2a2f------2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/@tanzimmahmed)
+➡️ [Click here for more posts](https://medium.com/@tanzimmahmed)
 
-
-[linkedin]: https://linkedin.com/in/tanzimmahmed
+### Connect here: <a href="mailto:tanzimmahmed@gmail.com">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tanzimmahmed/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+  <a href="https://medium.com/@tanzimmahmed">                                                                               
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>&nbsp;&nbsp;
