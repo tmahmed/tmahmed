@@ -1,12 +1,12 @@
 # Howdy! Welcome to my Github profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
-### I am Tanzim Ahmed, a Computer Science student at East Delta University, Bangladesh. Here I plan to host the projects that I take part in as I delve deeper into the field of Machine Learning, Statistics and Computer Science.
+### I am Tanzim Ahmed, a Computer Science Graduate from East Delta University, Bangladesh. I am currently working as a lecturer of Mathematics at East Delta University. Here I plan to host the projects that I take part in as I delve deeper into the field of Machine Learning, Statistics and Computer Science.
 
 <b>Interests: </b>
 
 - Natural Language Processing
-- Computer Graphics
--  Image Processing 
+- Bioinformatics
+- Computer Vision 
 
 Languages and Tools: Python, Django, MySQL
 <br>
